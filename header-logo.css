@@ -1,0 +1,7 @@
+#header-background{
+  width: 100%;
+  height: 300px;
+  background:url('https://i.pinimg.com/originals/f9/00/c5/f900c51aab82108ad2dfaa9c799699d0.jpg') ;
+  position: relative;
+  transform: translateX(none);
+}
